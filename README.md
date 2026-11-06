@@ -4,7 +4,7 @@ A small forum — posts, comments, accounts — built to exercise the parts of a
 full stack that matter: **authentication, Postgres queries and row level
 security**.
 
-Live demo: _(add the Vercel URL here after deploying)_
+Live demo: **https://mini-forum-mu.vercel.app**
 
 ## Stack
 
